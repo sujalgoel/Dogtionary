@@ -1,3 +1,3 @@
-<h1 align="center">The Online Dogtionary ![](assets/dog.png)</h1>
+<h1 align="center">The Online Dogtionary</h1>![](assets/dog.png)
 
 -  A simple [website](https://) that can generate random dog pictures using the [dog.ceo](https://dog.ceo/dog-api/) API...
